@@ -36,6 +36,8 @@ THREE.CSS3DObject = function ( element ) {
 //修改修改
 
 
+///第二次修改
+
 
 THREE.CSS3DObject.prototype = Object.create( THREE.Object3D.prototype );
 
