@@ -28,6 +28,15 @@ THREE.CSS3DObject = function ( element ) {
 
 };
 
+
+
+
+
+// xzxxzxzxzx
+//修改修改
+
+
+
 THREE.CSS3DObject.prototype = Object.create( THREE.Object3D.prototype );
 
 THREE.CSS3DSprite = function ( element ) {
